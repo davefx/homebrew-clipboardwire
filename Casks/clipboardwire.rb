@@ -1,6 +1,6 @@
 cask "clipboardwire" do
-  version "0.4.4"
-  sha256 "c7c5305977553762bd4842de010ba202c0ab5f9c9bb3abbee993592749c35637"
+  version "0.4.5"
+  sha256 "d9398de8514d764202bb1f4d6a2555bdd5dd5dc4f2d767ccade6c4213de11eb6"
 
   url "https://github.com/davefx/clipboardwire/releases/download/v#{version}/clipboardwire-macos-universal.dmg",
       verified: "github.com/davefx/clipboardwire/"
